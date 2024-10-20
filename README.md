@@ -5,7 +5,7 @@
 This printable is a drop-in replacement for the Macintosh Color Classic Button Board.
 Also known as part 820-0386-02.
 
-<img src="images/board.jpg" width="50%">
+<img src="Images/board.jpg" width="50%">
 
 ## Used parts
 - [x] 10K resistor
